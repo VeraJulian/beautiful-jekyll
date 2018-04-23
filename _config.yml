@@ -14,7 +14,7 @@ baseurl: "/csci376"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Human-Computer Interaction
+title: CSCI 376
 
 # Short description of your site
 description: Project page for CSCI 376
@@ -23,16 +23,18 @@ description: Project page for CSCI 376
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Home: "https://verajulian.github.io/csci376/"
+  Course Page: "https://sites.google.com/williams.edu/csci376-2018/home?authuser=0"
+  Project Page: "https://dylan-martin.github.io/college_connect/"
+  # Resources:
+  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #  - Learn markdown: "http://www.markdowntutorial.com/"
+  #  - GitHub Pages: "https://pages.github.com/"
+  # Author's home: "https://github.com/VeraJulian"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -99,7 +101,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
